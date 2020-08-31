@@ -3,3 +3,4 @@
 ## higher order components 
 ## typescript
 ### types, enums
+### interface, class
