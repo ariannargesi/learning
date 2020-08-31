@@ -4,3 +4,4 @@
 ## typescript
 ### types, enums
 ### interface, class
+### generics 
